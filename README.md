@@ -14,7 +14,6 @@ somme pour additionner deux polynômes, difference pour en faire la soustraction
 En Partie F, le programme aborde des notions d’analyse :derivee calcule la dérivée du polynôme,
 tvm retourne le taux de variation moyen entre deux points,et zeros affiche les racines réelles si le degré du polynôme est 1 ou 2.
 Enfin, la fonction run_tests à la fin du script permet de valider le bon fonctionnement de l’ensemble des fonctions à l’aide de tests unitaires basés sur assert. Les racines sont affichées directement avec print, tandis que les autres résultats sont vérifiés automatiquement.
-
 Ce projet n’utilise aucun module externe, ce qui le rend simple à exécuter et à comprendre. Il met en pratique de nombreuses notions fondamentales du cours : manipulation de listes, utilisation des fonctions, conditions, boucles, gestion des cas limites, et tests automatisés.
 
 Pour lancer les tests, il suffit d’exécuter le fichier avec la commande suivante :
