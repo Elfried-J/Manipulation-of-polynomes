@@ -5,6 +5,7 @@ Réalisé par Jeffrey et Iaris – Créé le 11 octobre 2022
 
 Ce projet Python a été développé dans le cadre du premier travail pratique (TP1) du cours, et porte sur la manipulation de polynômes représentés sous forme de listes. Dans cette représentation, chaque indice de la liste correspond au degré du terme, et chaque valeur représente le coefficient. Par exemple, la liste [1, 2, 3] représente le polynôme 1+2x+3x^2.
 Le programme est organisé en plusieurs sections, chacune répondant à une fonctionnalité précise :
+
 Partie A : la fonction normalise supprime les zéros inutiles à la fin du polynôme pour en garder une représentation fidèle et épurée.
 
 Partie B : la fonction degree retourne le degré réel du polynôme, c’est-à-dire le plus haut degré dont le coefficient est non nul.
